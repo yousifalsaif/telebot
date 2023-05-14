@@ -1,5 +1,5 @@
 {
-  "name": "telebot",
+  "name": "telebot-yousifalsaif",
   "version": "1.4.2",
   "description": "The easy way to write Telegram bots.",
   "main": "lib/telebot.js",
